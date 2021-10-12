@@ -1,20 +1,5 @@
-# MD5 Hash cracker
+# simple python projects from a beginner to beginners xD
 
-## Usage:
- python3 hash.py hash_file wordlist 
+![python_image_for_git](https://user-images.githubusercontent.com/90579213/136950667-8ddae071-a03b-49a5-9aa3-3e015ac41f32.JPG)
 
-### Linux:
-this file was created on windows, so if u wanna make  it executable on linux you need to execute those commands :
 
-1) add the shebang
-
-```   #!/usr/bin/python3 ```
-   on the top of the file
-
-2) ``` $ dos2unix hash.py ```
-
-3) ``` $ sudo chmod +x hash.py ```
-
-4) run it using:
-
-   $ ``` ./hash.py hash_file wordlist ```

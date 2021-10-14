@@ -24,6 +24,5 @@ def cryptmsg(msg,key):
         k = (k+1) % len(l)
     return encrypted
 
-print(alphaDec_lettre(lettres,"V"))
-print(litsalpha(lettres,"VIGENERE"))
+
 print(cryptmsg(msg,key))

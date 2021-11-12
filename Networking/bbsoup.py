@@ -1,3 +1,5 @@
+#from ejpt cert python's lab 
+
 import requests
 from bs4 import BeautifulSoup
 
